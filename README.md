@@ -23,7 +23,7 @@ A Java-based trading simulator for educational purposes, designed to simulate le
 - **Unit Tests**: Write unit tests to ensure the reliability and accuracy of the calculations and API interactions.
 - **Documentation**: Enhance the documentation with more detailed setup instructions, usage examples, and API endpoint descriptions.
 
-- ## Prerequisites
+## Prerequisites
 
 - Java 11 or higher
 - Maven/Gradle (for dependency management)
